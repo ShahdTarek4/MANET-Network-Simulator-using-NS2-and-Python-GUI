@@ -210,8 +210,8 @@ python graph.py
 1. [NS2 Documentation](http://www.isi.edu/nsnam/ns/)
 2. [Tkinter Docs](https://docs.python.org/3/library/tkinter.html)
 3. [Matplotlib Docs](https://matplotlib.org/stable/contents.html)
-4. GitHub Repository for SDN-MANET Reactive Firewall Simulators
-5. GitHub Repository for NS2 MANET Simulations
+4. [GitHub Repository for SDN-MANET Reactive Firewall Simulatorshttps](https://github.com/Dimitrios-Kafetzis/SDN-MANET-reactive-firewall-simulators)
+5. [GitHub Repository for NS2 MANET Simulations](https://github.com/Naheel-Azawy/ns2-manet-cmp)
 
 ---
 
